@@ -1,0 +1,23 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/e1",
+    "dois": "node ./src/e2",
+    "tres": "node ./src/e3",
+    "quatro": "node ./src/e4",
+    "cinco": "node ./src/e5",
+    "seis": "node ./src/e6",
+    "sete": "node ./src/e7",
+    "oito": "node ./src/e8"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

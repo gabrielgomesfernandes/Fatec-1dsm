@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "aula1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e3": "e3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

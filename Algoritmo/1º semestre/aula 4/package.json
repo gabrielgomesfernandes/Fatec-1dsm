@@ -1,0 +1,25 @@
+{
+  "name": "aula4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/e1.js",
+    "dois": "node ./src/e2.js",
+    "tres": "node ./src/e3.js",
+    "quatro": "node ./src/e4.js",
+    "cinco": "node ./src/e5.js",
+    "seis": "node ./src/e6.js",
+    "sete": "node ./src/e7.js",
+    "oito": "node ./src/e8.js",
+    "nove": "node ./src/e9.js",
+    "dez": "node ./src/e10.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
