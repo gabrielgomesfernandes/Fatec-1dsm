@@ -1,0 +1,17 @@
+{
+  "name": "aula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "um": "node ./src/um.js",
+    "dois": "node ./src/dois.js",
+    "tres": "node ./src/tres.js",
+    "quatro": "node ./src/quatro.js",
+    "cinco": "node ./src/cinco.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
